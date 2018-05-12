@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2186
     wikipedia: http://en.wikipedia.org/wiki/Maria_Parloa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30441#Canned-Fruit-Preserves-and-Jellies--Household-Methods-of-PreparationU.S.-Department-of-Agricu_
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2009-11-09'
 gutenberg_type: Text
