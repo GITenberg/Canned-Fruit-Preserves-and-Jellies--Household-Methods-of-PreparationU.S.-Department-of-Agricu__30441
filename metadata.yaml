@@ -1,0 +1,33 @@
+_repo: Canned-Fruit-Preserves-and-Jellies--Household-Methods-of-PreparationU.S.-Department-of-Agricu__30441
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parloa, Maria
+    alias: Parloa, Miss (Maria)
+    birthdate: 1843
+    deathdate: 1909
+    gutenberg_agent_id: '2186'
+    url: http://www.gutenberg.org/2009/agents/2186
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Parloa
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2009-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Dept. of Agriculture. Farmers' bulletin no. 203
+subjects:
+- !lcsh 'Jam'
+- !lcsh 'Fruit -- Preservation'
+- !lcsh 'Jelly'
+- !lcc 'TX'
+- !lcsh 'Canning and preserving'
+title: 'Canned Fruit, Preserves, and Jellies: Household Methods of Preparation'
+url: http://www.gutenberg.org/ebooks/30441
